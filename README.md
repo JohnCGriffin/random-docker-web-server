@@ -6,5 +6,5 @@ from /dev/random onto the end of index.html.  Yes, the HTML is now badly formed.
 
 ## Example
 
-
+![img](nginx-pic.png)
 
